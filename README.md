@@ -39,7 +39,6 @@ At each decoding step, the model learns *where to look* in the image before pred
 DeepL-Final/
 ├── data_and_training.ipynb   # Dataset prep, training, evaluation, export
 ├── inference.ipynb           # Caption generation (Colab-ready)
-├── run_inference.py          # Standalone local inference
 ├── requirements.txt
 ├── Data/caption_data/        # captions.txt + Images/  (not bundled)
 └── model/                    # Exported weights & metadata
